@@ -16,14 +16,12 @@
 
 ---
 
-## Language
+<br>
 
-- [Espanol](#espanol)
-- [English](#english)
+<!-- Language Switch -->
+[🇬🇧 English](#english) | [🇪🇸 Español](#español)
 
----
-
-## Espanol
+<br>
 
 ### Indice
 
@@ -35,9 +33,11 @@
   - [Instalacion y ejecucion](#instalacion-y-ejecucion)
 - [Resultados y salidas](#resultados-y-salidas)
 - [Reproducibilidad](#reproducibilidad)
-- [Contribuir](#contribuir)
 - [Licencia](#licencia)
 - [Reconocimientos](#reconocimientos)
+
+
+<div id="español">
 
 ### Vision general
 
@@ -123,12 +123,6 @@ pip install numpy pandas scipy xarray matplotlib seaborn scikit-learn networkx r
 
 4. Abre los notebooks y selecciona el kernel de .venv.
 
-5. Orden recomendado de ejecucion:
-
-```text
-1 -> 2 -> 3 -> 4
-```
-
 Notas:
 
 - data.grib se usa en el flujo con ERA5.
@@ -150,13 +144,6 @@ Cada notebook exporta artefactos en su carpeta single_hp_outputs_X:
 - Conservar CSV de salida como artefacto canonico de cada corrida.
 - Documentar cambios de malla de hiperparametros junto al output.
 
-### Contribuir
-
-1. Crea una rama con nombre descriptivo.
-2. Manten estructura de experimentacion por fases.
-3. Verifica ejecucion completa de notebooks y exportacion de resultados.
-4. Abre una PR explicando objetivo, hipotesis y resultados esperados.
-
 ### Licencia
 
 Este proyecto se distribuye bajo la licencia MIT.
@@ -170,7 +157,6 @@ Autor: Antonio Macias Ferrera.
 
 ---
 
-## English
 
 ### Table of contents
 
@@ -181,10 +167,11 @@ Autor: Antonio Macias Ferrera.
   - [Prerequisites](#prerequisites)
   - [Installation and execution](#installation-and-execution)
 - [Results and outputs](#results-and-outputs)
-- [Reproducibility](#reproducibility-1)
-- [Contributing](#contributing)
+- [Reproducibility](#reproducibility)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+
+<div id="english">
 
 ### Overview
 
@@ -296,13 +283,6 @@ Each notebook exports artifacts into single_hp_outputs_X folders:
 - Execute notebooks top-to-bottom without skipping cells.
 - Preserve output CSV files as canonical run artifacts.
 - Document hyperparameter grid changes together with generated outputs.
-
-### Contributing
-
-1. Create a descriptive branch.
-2. Keep the phase-based experimental structure.
-3. Verify full notebook execution and output generation.
-4. Open a PR with goals, hypothesis, and expected results.
 
 ### License
 

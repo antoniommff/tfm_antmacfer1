@@ -23,7 +23,7 @@ ENV/
 !.env.example
 
 # Local tool state
-.claude/settings.local.json
+.claude*
 
 # Large local datasets and generated experiment outputs
 data.grib

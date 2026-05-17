@@ -29,3 +29,6 @@ ENV/
 data.grib
 data.grib.*
 single_hp_outputs_*/
+
+# Local configuration files
+.flake8

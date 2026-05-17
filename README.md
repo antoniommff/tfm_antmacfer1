@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/NetworkX-000000.svg?style=default" alt="NetworkX">
     <img src="https://img.shields.io/badge/ReservoirPy-2C7FB8.svg?style=default" alt="ReservoirPy">
 </p>
+<p align="center">
+    <img src="assets/hero_image.png" alt="Hero image" width="80%">
+</p>
 
 ---
 
@@ -61,10 +64,12 @@ La experimentacion se organiza en cuatro notebooks:
 2_fase_experimentacion/
 ├── .gitignore
 ├── README.md
+├── assets/
+│   └── hero_image.png
 ├── 1 - Echo State Networks on Sine analysis - Hyperparameter and Reservoir.ipynb
-├── 2 - Echo State Networks on ERA5 - Hyperparameter and Reservoir.ipynb
-├── 3 - Echo State Networks - Architecture Comparison on Increasingly Difficult Synthetic Signals.ipynb
-├── 4 - Echo State Networks on Synthetic Benchmark - Hyperparameter and Reservoir.ipynb
+├── 2 - Echo State Networks on ERA5 – Hyperparameter and Reservoir.ipynb
+├── 3 - Echo State Networks — Architecture Comparison on Increasingly Difficult Synthetic Signals.ipynb
+├── 4 - Echo State Networks on Synthetic Benchmark – Hyperparameter and Reservoir.ipynb
 ├── data.grib
 ├── data.grib.5b7b6.idx
 ├── single_hp_outputs_1/
@@ -195,10 +200,12 @@ The work is organized into four notebooks:
 2_fase_experimentacion/
 ├── .gitignore
 ├── README.md
+├── assets/
+│   └── hero_image.png
 ├── 1 - Echo State Networks on Sine analysis - Hyperparameter and Reservoir.ipynb
-├── 2 - Echo State Networks on ERA5 - Hyperparameter and Reservoir.ipynb
-├── 3 - Echo State Networks - Architecture Comparison on Increasingly Difficult Synthetic Signals.ipynb
-├── 4 - Echo State Networks on Synthetic Benchmark - Hyperparameter and Reservoir.ipynb
+├── 2 - Echo State Networks on ERA5 – Hyperparameter and Reservoir.ipynb
+├── 3 - Echo State Networks — Architecture Comparison on Increasingly Difficult Synthetic Signals.ipynb
+├── 4 - Echo State Networks on Synthetic Benchmark – Hyperparameter and Reservoir.ipynb
 ├── data.grib
 ├── data.grib.5b7b6.idx
 ├── single_hp_outputs_1/

@@ -68,7 +68,7 @@ La experimentacion se organiza en cuatro notebooks:
 │   └── hero_image.png
 ├── 1 - Echo State Networks on Sine analysis - Hyperparameter and Reservoir.ipynb
 ├── 2 - Echo State Networks on ERA5 – Hyperparameter and Reservoir.ipynb
-├── 3 - Echo State Networks — Architecture Comparison on Increasingly Difficult Synthetic Signals.ipynb
+├── 3 - Echo State Networks - Architecture Comparison on Increasingly Difficult Synthetic Signals.ipynb
 ├── 4 - Echo State Networks on Synthetic Benchmark – Hyperparameter and Reservoir.ipynb
 ├── data.grib
 ├── data.grib.5b7b6.idx
@@ -204,7 +204,7 @@ The work is organized into four notebooks:
 │   └── hero_image.png
 ├── 1 - Echo State Networks on Sine analysis - Hyperparameter and Reservoir.ipynb
 ├── 2 - Echo State Networks on ERA5 – Hyperparameter and Reservoir.ipynb
-├── 3 - Echo State Networks — Architecture Comparison on Increasingly Difficult Synthetic Signals.ipynb
+├── 3 - Echo State Networks - Architecture Comparison on Increasingly Difficult Synthetic Signals.ipynb
 ├── 4 - Echo State Networks on Synthetic Benchmark – Hyperparameter and Reservoir.ipynb
 ├── data.grib
 ├── data.grib.5b7b6.idx
